@@ -20,7 +20,7 @@ A CRUD app made with create react app and react hooks
 
 ### Links
 
-- Live Site URL: [Deployed with netlify](https://fascinating-piroshki-40ca46.netlify.app/)
+- Live Site URL: [Deployed with netlify](https://shiny-klepon-fd05d1.netlify.app/)
 
 ## My process
 
@@ -28,7 +28,7 @@ A CRUD app made with create react app and react hooks
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
+- Sass
 - [Create React App](https://create-react-app.dev/) - JS library
 
 ## Author
